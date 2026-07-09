@@ -1,7 +1,9 @@
 # 💫 About Me:
 <br/>
 <br/>
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=70&pause=5000&color=FFFFFF&center=true&vCenter=true&height=100&width=4100&lines=A+passionate+Software+Engineer+currently+in+4rd+Year+Pursuing+Education+from+VIT,+Pune+learning+Next.js+and+React+Query." />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=70&pause=5000&color=FFFFFF&center=true&vCenter=true&height=100&width=4100&lines=A+passionate+Software+Engineer+currently+in+4rd+Year+Pursuing+Education+from+VIT,+Pune+learning+Next.js+and+React+Query." /> -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Roboto&size=70&pause=5000&color=FFFFFF&center=true&vCenter=true&height=100&width=4100&lines=A+passionate+Software+Engineer+%7C+VIT+Pune+Alumnus+%7C+Building+scalable+Full-Stack+and+AI-powered+applications." />
 
 <br/>
 <br/>
